@@ -7,3 +7,12 @@
 Non-Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+import Circle as circle
+
+for x in range(0, 10):
+  if circle.area(x) > 90:
+    print("Area sufficiently large")
+    break
+```

@@ -16,3 +16,7 @@ for x in range(0, 10):
     print("Area sufficiently large")
     break
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world

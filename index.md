@@ -6,5 +6,4 @@
 ###### Header 6
 Non-Header
 
-# Commit Message
-Added header vs plain text comparison.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
